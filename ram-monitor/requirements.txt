@@ -1,0 +1,9 @@
+# 内存条价格监控 - 依赖列表
+# 本脚本无需安装额外依赖，使用 Python 3 内置库
+
+# 可选依赖（增强功能）：
+# requests >= 2.25.0   # 如果想使用更简单的HTTP请求
+# beautifulsoup4 >= 4.9.0  # 如果需要解析HTML
+
+# 安装：
+# pip install -r requirements.txt
